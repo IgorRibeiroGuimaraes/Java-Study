@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercício/Aula sobre function/Aula sobre function.iml" filepath="$PROJECT_DIR$/Lista de Exercício/Aula sobre function/Aula sobre function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercício/AulaD/AulaD.iml" filepath="$PROJECT_DIR$/Lista de Exercício/AulaD/AulaD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classe abstract/Classe abstract.iml" filepath="$PROJECT_DIR$/Classe abstract/Classe abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercício/EX1_1/EX1_1.iml" filepath="$PROJECT_DIR$/Lista de Exercício/EX1_1/EX1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/EstudoDeCaso/EstudoDeCaso.iml" filepath="$PROJECT_DIR$/Polimorfismo/EstudoDeCaso/EstudoDeCaso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/EstudoDeCaso2/EstudoDeCaso2.iml" filepath="$PROJECT_DIR$/Polimorfismo/EstudoDeCaso2/EstudoDeCaso2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercício/Exercicio/Exercicio.iml" filepath="$PROJECT_DIR$/Lista de Exercício/Exercicio/Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança/Herança.iml" filepath="$PROJECT_DIR$/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 2 bimestre/Java 2 bimestre.iml" filepath="$PROJECT_DIR$/Java 2 bimestre/Java 2 bimestre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercicio 4/Lista de Exercicio 4.iml" filepath="$PROJECT_DIR$/Lista de Exercicio 4/Lista de Exercicio 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercicio 5/Lista de Exercicio 5.iml" filepath="$PROJECT_DIR$/Lista de Exercicio 5/Lista de Exercicio 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercicio3/Lista de Exercicio3.iml" filepath="$PROJECT_DIR$/Lista de Exercicio3/Lista de Exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaExercicio1/ListaExercicio1.iml" filepath="$PROJECT_DIR$/ListaExercicio1/ListaExercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modelagem/Modelagem.iml" filepath="$PROJECT_DIR$/Modelagem/Modelagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modelagem2/Modelagem2.iml" filepath="$PROJECT_DIR$/Modelagem2/Modelagem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modificador/Modificador.iml" filepath="$PROJECT_DIR$/Modificador/Modificador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho-Java/Trabalho-Java.iml" filepath="$PROJECT_DIR$/Trabalho-Java/Trabalho-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho-Java-Professor-com-BD/Trabalho-Java-Professor-com-BD.iml" filepath="$PROJECT_DIR$/Trabalho-Java-Professor-com-BD/Trabalho-Java-Professor-com-BD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 2 bimestre/TrabalhoOO/TrabalhoOO.iml" filepath="$PROJECT_DIR$/Java 2 bimestre/TrabalhoOO/TrabalhoOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 2 bimestre/TrabalhoPOO/TrabalhoPOO.iml" filepath="$PROJECT_DIR$/Java 2 bimestre/TrabalhoPOO/TrabalhoPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Venda de Produtos/Venda de Produtos.iml" filepath="$PROJECT_DIR$/Venda de Produtos/Venda de Produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros exercercio/ex1/ex1.iml" filepath="$PROJECT_DIR$/Primeiros exercercio/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros exercercio/exe 3/exe 3.iml" filepath="$PROJECT_DIR$/Primeiros exercercio/exe 3/exe 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros exercercio/exe1_1/exe1_1.iml" filepath="$PROJECT_DIR$/Primeiros exercercio/exe1_1/exe1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros exercercio/exe4/exe4.iml" filepath="$PROJECT_DIR$/Primeiros exercercio/exe4/exe4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros exercercio/exe5/exe5.iml" filepath="$PROJECT_DIR$/Primeiros exercercio/exe5/exe5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segundo aula/exemplo 3/exemplo 3.iml" filepath="$PROJECT_DIR$/segundo aula/exemplo 3/exemplo 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segundo aula/repiticao/repiticao.iml" filepath="$PROJECT_DIR$/segundo aula/repiticao/repiticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segundo aula/teste/teste.iml" filepath="$PROJECT_DIR$/segundo aula/teste/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros exercercio/untitled/untitled.iml" filepath="$PROJECT_DIR$/Primeiros exercercio/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segundo aula/untitled/untitled1.iml" filepath="$PROJECT_DIR$/segundo aula/untitled/untitled1.iml" />
+    </modules>
+  </component>
+</project>
